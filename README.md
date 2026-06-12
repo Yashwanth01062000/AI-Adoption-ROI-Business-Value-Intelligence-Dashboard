@@ -10,7 +10,7 @@ By consolidating AI adoption metrics into a single view, decision-makers can eva
 
 ## Dashboard Preview
 
-![AI Adoption ROI Dashboard](Dashboard.jpg.png)
+![AI Adoption ROI Dashboard](dashboard.jpg)
 
 ---
 
